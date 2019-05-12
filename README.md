@@ -19,6 +19,8 @@ npm install body-parser
 
 ## Postman
 
+Download Postman on your PC.
+
 Select "x-www-form-urlencoded" for html
 
 Select "raw" for JSON
