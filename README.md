@@ -9,7 +9,7 @@ Simple server using Express.js: Udemy: Zero to Mastery Course by @aneagoie
 
 -npm install nodemon & body-parser and how they work
 
-## NPM
+## NPM install
 
 npm install nodemon
 
@@ -19,8 +19,10 @@ npm install body-parser
 
 ## Postman
 
+https://www.getpostman.com/
+
 Download Postman on your PC.
 
 Select "x-www-form-urlencoded" for html
 
-Select "raw" for JSON
+Select "raw" for JSON, then select "JSON(application/json)"
