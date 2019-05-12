@@ -8,3 +8,11 @@ Simple server using Express.js: Udemy: Zero to Mastery Course by @aneagoie
 -how to use Postman 
 
 -npm install nodemon & body-parser and how they work
+
+## NPM
+
+npm install nodemon
+
+npm install postman
+
+npm install body-parser
