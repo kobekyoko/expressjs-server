@@ -16,3 +16,9 @@ npm install nodemon
 npm install postman
 
 npm install body-parser
+
+## Postman
+
+Select "x-www-form-urlencoded" for html
+
+Select "raw" for JSON
